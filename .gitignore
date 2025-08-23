@@ -206,3 +206,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 /linear/data/
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/start_to_learn_ai.iml
+/.idea/vcs.xml
+/.idea/workspace.xml

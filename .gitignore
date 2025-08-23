@@ -212,3 +212,5 @@ __marimo__/
 /.idea/start_to_learn_ai.iml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/rag/vector_db/documents.pkl
+/rag/vector_db/faiss_index.bin
